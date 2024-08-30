@@ -45,6 +45,13 @@ Objetivos Específicos: • Elaborar los requisitos necesarios para la creación
 
 Estos los podren visualizar en el siguiente link: https://www.canva.com/design/DAGGtmLZyIU/jCx6mvQJ6NRlYOke4YLkww/edit?utm_content=DAGGtmLZyIU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+**** Encuesta ****
+
+Objetivo general: recolectar información en base a una encuesta para desarrollar mejoras con respecto a la creación de My Coffee. Objetivos específicos: 
+• Alcanzar a más de 40 personas encuestadas. 
+• Dar a conocer el aplicativo web. 
+• Conocer mejor la opinión del público con respecto a la venta del café en empresas pequeñas. 
+• Analizar los resultados y decidir mejoras con respecto a la encuesta para el desarrollo de My Coffee.
 
 
 **** Casos de usos **** 
