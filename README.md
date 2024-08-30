@@ -11,3 +11,11 @@ El sector cafetero enfrenta desafíos como la falta de comunicación eficiente, 
 • Herramientas de Comunicación y Colaboración: Facilitación de la interacción y establecimiento de relaciones comerciales. 
 • Optimización de Procesos: Mejora de la eficiencia y rentabilidad para productores y procesadores. 
 • Mercado en Línea: Plataforma para la compra y venta de café
+
+**** Tecnologias ****
+
+• Metodologia: scrum
+• Gestion de proy: azure devops 
+• Sistema verciones: github 
+• Lenjuajes: JS 
+• Aplicaion para codificar: vs
