@@ -63,3 +63,6 @@ Estos los podren visualizar en el siguiente link: https://drive.google.com/file/
 
 Estos los podren visualizar en el siguiente link: https://drive.google.com/file/d/1Tzf8cN2xF6Tm1kCM_Sdrw0bB7gUTtB76/view?usp=sharing
 
+**** Autores ****
+
+By: Alejandro Sepulveda Ramirez By: Jose Alejandro Agudelo Vasquez
