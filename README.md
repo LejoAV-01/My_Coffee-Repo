@@ -28,6 +28,18 @@ Requerimientos Funcionales: RF- 01 Registro de usuario. RF- 02 Carrito de compra
 
 Requerimientos No Funcionales: RNF- 01 Rendimiento. RNF- 02 Seguridad. RNF- 03 Disponibilidad. RNF- 04 Escalabilidad. RNF- 05 Copia de Seguridad de Datos RNF- 06 Manejo de Errores RNF- 07 Mantenimiento. RNF- 08 Escalabilidad RNF- 09 Usabilidad. RNF- 010 Accesibilidad. RNF- 011 Compatibilidad. RFN- 012 Idioma.
 
+**** Proyecto final ****
+
+Beneficios del Software: • Mejora de la Comunicación y Colaboración: Facilita la toma de decisiones. • Optimización de Procesos: Mayor eficiencia y rentabilidad. • Facilita el Acceso a Mercados: Amplía posibilidades comerciales para los productores.
+
+Recursos Necesarios: • Equipo de Desarrollo: 3 desarrolladores. • Recursos Financieros: $50 millones de pesos. • Infraestructura Tecnológica: Servidores, bases de datos y redes de comunicación. • Asociaciones: Microempresas y empresas exportadoras.
+
+Riesgos y Estrategias de Mitigación: • Retrasos Técnicos: Cronograma realista y plan de contingencia. • Falta de Uso del Software: Campañas de sensibilización y capacitación. • Dificultades de Financiación: Diversificación de fuentes de financiamiento. • Cambios en el Mercado: Monitoreo continuo y ajustes en el proyecto.
+
+Resultados Esperados: • Mejora en la Comunicación y Colaboración. • Optimización de Procesos. • Aumento de Ventas y Rentabilidad. • Fortalecimiento del Sector Cafetero. Objetivo General: desarrollar un aplicativo web que ayude en la optimización del café en nuestra empresa, de modo que logre aumentar la tasa de productividad de esta, ofreciéndole mejores alternativas a nuestro público cafetero con todo lo respecto al tratamiento del café y opciones para emprender.
+
+Objetivos Específicos: • Elaborar los requisitos necesarios para la creación del aplicativo. • Diseñar una interfaz guía según los requisitos anteriormente planteados. • Desarrollar el aplicativo web haciendo uso de lenguajes de programación. • Realizar las debidas pruebas para corroborar que el aplicativo web funcione correctamente. • Implementar el aplicativo web en los sistemas de la empresa.
+
 
 **** Mockups ****
 
