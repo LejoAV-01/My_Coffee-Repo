@@ -31,3 +31,9 @@ Requerimientos No Funcionales: RNF- 01 Rendimiento. RNF- 02 Seguridad. RNF- 03 D
 **** Mockups ****
 
 Estos los podren visualizar en el siguiente link: https://www.canva.com/design/DAGGtmLZyIU/jCx6mvQJ6NRlYOke4YLkww/edit?utm_content=DAGGtmLZyIU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+**** Casos de usos **** 
+
+Estos los podren visualizar en el siguiente link: https://drive.google.com/file/d/1PKmLgVLSBr-v6lEH9abtOdULQ-Ly81E3/view?usp=sharing
